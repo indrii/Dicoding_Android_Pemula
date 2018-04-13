@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="Panjang">Panjang</string>
+    <string name="Lebar">Lebar</string>
+    <string name="Hasil">Hasil</string>
+    <string name="Hitung">Hitung</string>
+
 </resources>
